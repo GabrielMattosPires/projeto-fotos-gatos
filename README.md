@@ -10,3 +10,4 @@ CSS3: Estilização responsiva e posicionamento de elementos.
 Neste projeto, pratiquei o uso de formulários, inputs, listas e a hierarquia correta de tags HTML para acessibilidade.
 
 🔗 Link para o projeto:
+gabrielmattospires.github.io
